@@ -10,8 +10,8 @@
  
 This example has two projects 
  
-** testudines_pdf_lib.prj** : A small library for do interface with tex 7 more simple
-** testudines_pdf_test.prj** : A small windows form software for testing the library.
+**testudines_pdf_lib.prj** : A small library for do interface with tex 7 more simple
+**testudines_pdf_test.prj** : A small windows form software for testing the library.
 
 you need install itext 7 NuGet packet as  extension for compile this sofware with Microsoft Visual Studio enviroment.
 ``` c
