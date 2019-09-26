@@ -1,10 +1,8 @@
 # ITEXT 7 - test-01
  Itext 7  c# integration text
- Example for general proposite, 
+ Example  integration of Itex 7 with microsoft visual stdudio , writed in C for general proposite
  
- integration of Itex 7 with microsoft visual stdudio , writed in C.
- 
- 
+***Note:*** 
  - Itext 7 is distributed with licence AGPL , visit https://itextpdf.com/ for more information.
  - Visual studio Comunity is a free version software by Microsoft  visit https://visualstudio.microsoft.com for more information.
  
@@ -15,7 +13,7 @@ This example has two projects
 
 you need install itext 7 NuGet packet as  extension for compile this sofware with Microsoft Visual Studio enviroment.
 
-***Here the code por simple use in windows form***
+***Here the code por simple use in windows form ***
 ``` c
 using System;
 using System.Diagnostics;
